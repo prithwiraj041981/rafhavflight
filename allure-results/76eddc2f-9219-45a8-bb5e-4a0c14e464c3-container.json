@@ -1,0 +1,1 @@
+{"uuid":"76eddc2f-9219-45a8-bb5e-4a0c14e464c3","name":"Default suite","children":["7584af2c-c5b5-42d1-9ce2-afea37d46f46"],"befores":[{"name":"CreateDir","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1690702519814,"stop":1690702519849}],"afters":[],"start":1690702519772,"stop":1690702568672}
